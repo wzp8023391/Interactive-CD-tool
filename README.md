@@ -4,5 +4,6 @@ This software can be used to detect land cover changes in bi-temporal high-resol
 This version can only be run on the Windows operating system, in our future work, we will package it on Linux or macOS.
 
 ## baidu Disk:
-URL：https://pan.baidu.com/s/1J4cvOd0EYALxQ2FIjb6x4g?pwd=fbem 
-passkey：fbem 
+URL：https://pan.baidu.com/s/1vLNmlSWVWz0-ijc4ax8xEA?pwd=5sao 
+passkey：5sao 
+
